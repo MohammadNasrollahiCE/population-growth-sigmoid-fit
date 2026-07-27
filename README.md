@@ -1,9 +1,5 @@
 # 📈 Population Growth Prediction using Sigmoid Regression
 
-<p align="center">
-  <img src="Images/population_growth_fit.png" width="800">
-</p>
-
 A machine learning project that models long-term population growth using **Non-linear (Sigmoid) Regression**. The model is trained on historical population data and learns the characteristic S-shaped growth curve commonly observed in demographic studies.
 
 This project demonstrates how **SciPy's curve fitting** can be used to estimate the parameters of a sigmoid function and model real-world population growth trends.
